@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Timer</string>
+    <string name="bt_start">STRAT</string>
+    <string name="bt_stop">STOP</string>
+    <string name="bt_reset">RESET</string>
+</resources>
